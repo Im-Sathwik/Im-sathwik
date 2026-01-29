@@ -1,40 +1,37 @@
-# Hi 👋 I'm Sathwik Shetty  
+# Hi, I'm Sathwik Shetty 👋
 
-🎓 BCA Graduate | 💻 Aspiring Software Developer  
-📍 Udupi, Karnataka  
+🎓 Bachelor of Computer Applications (BCA) Graduate  
+💻 Aspiring Software Developer  
+📍 Udupi, Karnataka, India  
 
-## 🚀 About Me
+## About Me
+- I am a motivated and enthusiastic computer applications graduate
 - Passionate about coding and problem-solving  
-- Interested in Web Development & Software Applications  
-- Currently working on real-world projects  
+- Interested in Web Development & Software Applications   
+- I enjoy learning new tools, improving my coding skills, and building practical applications. 
+- I am eager to grow as a developer and contribute to real-world projects
+- Currently working on real-world projects.
 
-## 🛠️ Skills
-- Languages: C, Java, Python  
-- Web: HTML, CSS  
-- Tools: Git, GitHub  
+## Technical Skills
+- **Programming Languages:** C, Java, Python  
+- **Web Technologies:** HTML, CSS  
+- **Tools & Platforms:** Git, GitHub  
 
-## 📌 Projects
-- 📊 Expense Tracker Application  
-- 🏫 Attendance Management System  
+## Projects
+- **Attendance Management System** – Application to manage and track student attendance  
+- **Expense Tracker** – Application to record and analyze daily expenses  
 
-## 🌱 Currently Learning
-- Advanced Java  
-- Backend Development  
+## Currently Learning
+- Advanced Java concepts  
+- Backend development fundamentals  
+- Data structures and problem-solving  
 
-## 📫 Connect With Me
-- Email: shettysathwik007@gmail.com## Hi there 👋
+## Languages
+- English  
+- Kannada  
+- Hindi  
+- Tulu  
 
-<!--
-**Im-Sathwik/Im-sathwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+📧 Email: shettysathwik007@gmail.com  
+📍 Location: Udupi, Karnataka
