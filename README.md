@@ -1,7 +1,7 @@
 # Hi, I'm Sathwik Shetty 👋
 
 🎓 Bachelor of Computer Applications (BCA) Graduate  
-💻 Aspiring Software Developer  
+💻 Learning Programming  
 📍 Udupi, Karnataka, India  
 
 ## About Me
