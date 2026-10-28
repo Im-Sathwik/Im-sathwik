@@ -1,37 +1,21 @@
-# Hi, I'm Sathwik Shetty 👋
+# 💫 About Me:
+I’m a BCA graduate who enjoys building small working applications and solving problems with code. Python is the language I’m most comfortable with. I’ve used it for console applications like a banking system and a student profile manager, and I’m now using it for web development with Flask and for machine learning with scikit-learn in my MediMate project. I’m currently doing a Python with data analytics course at JSpiders, Bengaluru, to build my skills in working with data.<br><br>I also have basic knowledge of SQL and have worked with it. I’m continuing to practice it alongside Python, since the two go together: Python for the logic, SQL for storing and querying the data.<br><br>Skills<br>Python (strongest), Flask, scikit-learn<br>SQL (basic)<br>HTML, CSS, JavaScript, Java, C<br>Git, GitHub<br><br>What I’m looking for<br>Entry-level roles where I can keep growing in Python and SQL, such as junior Python developer, SQL developer trainee, or junior data analyst.
 
-🎓 Bachelor of Computer Applications (BCA) Graduate  
-💻 Learning Programming  
-📍 Udupi, Karnataka, India  
 
-## About Me
-- I am a motivated and enthusiastic computer applications graduate
-- Passionate about coding and problem-solving  
-- Interested in Web Development & Software Applications   
-- I enjoy learning new tools, improving my coding skills, and building practical applications. 
-- I am eager to grow as a developer and contribute to real-world projects
-- Currently working on real-world projects.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/___sathwik_07___/?__pwa=1#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sathwik-shetty07/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SATHWIK SHETTY) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shettysathwik007@gmail.com) 
 
-## Technical Skills
-- **Programming Languages:** C, Java, Python  
-- **Web Technologies:** HTML, CSS  
-- **Tools & Platforms:** Git, GitHub  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Im-Sathwik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Im-Sathwik&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Im-Sathwik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Projects
-- **Attendance Management System** – Application to manage and track student attendance  
-- **Expense Tracker** – Application to record and analyze daily expenses  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Im-Sathwik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Currently Learning
-- Advanced Java concepts  
-- Backend development fundamentals  
-- Data structures and problem-solving  
+---
+[![](https://komarev.com/ghpvc/?username=Im-Sathwik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Languages
-- English  
-- Kannada  
-- Hindi  
-- Tulu  
-
-## Contact
-📧 Email: shettysathwik007@gmail.com  
-📍 Location: Udupi, Karnataka
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
